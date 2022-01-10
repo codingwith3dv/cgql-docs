@@ -9,7 +9,7 @@
   ">
   <Logo/>
   <p class="
-    text-zinc-200 font-black ml-3 font-Overpass
+    text-zinc-200 font-black ml-3 font-hd
     text-2xl
     ">cgql</p>
 </div>

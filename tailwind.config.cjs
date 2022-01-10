@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Overpass: ["Overpass"],
+        hd: ["Source Code Pro"],
       },
     },
   },
