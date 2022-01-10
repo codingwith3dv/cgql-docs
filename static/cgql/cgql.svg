@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 240.0 240.0"
+	enable-background="new 0 0 240.0 240.0"
+	xml:space="preserve">
+<defs>
+	<style type="text/css">
+		@font-face {
+			font-family: 'openSans'; 
+			src: url('./openSans.ttf');
+		}
+	</style>
+</defs> 
+
+	<text 
+		font-size="261.1933"
+		font-family="openSans"
+		fill="#F600BC"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 100.00001 115.0) scale(1.0059836 1.0)" >
+
+		<tspan x="16.634695" y="212.948">C</tspan>
+	</text>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.9582384"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M119.44,120.00L177.84,73.92"/>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.9582384"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M119.44,120.00L177.84,166.08"/>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M177.84,63.61C183.63,63.61,188.32,68.23,188.32,73.92C188.32,79.61,183.63,84.22,177.84,84.22C172.04,84.22,167.35,79.61,167.35,73.92C167.35,68.23,172.04,63.61,177.84,63.61z"/>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.9582384"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M177.84,166.08L177.84,73.92"/>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M177.84,155.78C183.63,155.78,188.32,160.39,188.32,166.08C188.32,171.77,183.63,176.39,177.84,176.39C172.04,176.39,167.35,171.77,167.35,166.08C167.35,160.39,172.04,155.78,177.84,155.78z"/>
+	<path
+		fill="#F600BC"
+		stroke="#F600BC"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M122.16,109.70C127.96,109.70,132.65,114.31,132.65,120.00C132.65,125.69,127.96,130.30,122.16,130.30C116.37,130.30,111.68,125.69,111.68,120.00C111.68,114.31,116.37,109.70,122.16,109.70z"/>
+</svg>

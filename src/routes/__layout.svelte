@@ -1,8 +1,11 @@
 <script>
   import "../app.css";
-  import Nav from "../components/Nav.svelte"
+  import Home from "../pages/home/Home.svelte";
+  import Nav from "../components/Nav.svelte";
 </script>
-<main>
+<main class="bg-gray-800 h-[120rem]">
   <Nav/>
-  <h1 class="text-sky-400">Hey</h1>
+  <div class="mx-4">
+    <Home/>
+  </div>
 </main>
